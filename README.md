@@ -39,6 +39,14 @@
 
 ---
 
+## 📌 More Projects
+
+- 🎮 **[DuoVerse](https://github.com/foxylayzz777/Duo-Verse)** — *Play Together. Vibe Forever.* A social hangout app for couples, friends & besties — play multiplayer games, chat while playing and listen to music together.
+- 🦊 **[Foxy Device Info](https://github.com/foxylayzz777/Foxy-Device-Info-)** — a clean, modern Android device information, hardware monitoring & diagnostics app. *(Kotlin)*
+- 🔴 **[Foxy Screen Recorder](https://github.com/foxylayzz777/Foxy-Screen-Recorder-)** — a modern Android screen recorder: 1080p at 60 FPS, facecam overlay, floating controls and a built-in video trimmer. *(Kotlin)*
+
+---
+
 ## 🙋 About Me
 
 - 🔭 Building **FoxyCraft Launcher** — Minecraft Java Edition 26.3, native on Android
