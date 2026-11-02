@@ -10,20 +10,22 @@
 ## 🧊 Featured Project — FoxyCraft Launcher
 
 <p align="center">
-  <a href="https://github.com/foxylayzz777/FoxyCraft-Launcher">
-    <img src="https://raw.githubusercontent.com/foxylayzz777/FoxyCraft-Launcher/android/docs/images/title.jpg" width="49%" alt="Title screen with a custom skin" />
-    <img src="https://raw.githubusercontent.com/foxylayzz777/FoxyCraft-Launcher/android/docs/images/game.jpg" width="49%" alt="In game with Bedrock-style touch controls" />
+  <a href="https://foxycraft.us.ci">
+    <img src="https://foxycraft.us.ci/shots/title.webp" width="49%" alt="Title screen with a custom skin" />
+    <img src="https://foxycraft.us.ci/shots/game.webp" width="49%" alt="In game with Bedrock-style touch controls" />
   </a>
 </p>
 
 **Minecraft Java 26.3 on your phone — no emulator, no JVM on the device.** A native Rust/wgpu client with a Midnight Ocean UI, one-tap verified installs, built-in mods / packs / shaders catalogs and Bedrock-style touch controls with a full layout editor — new in 1.1.0, **The Touch Update**.
 
+> 📢 **All FoxyCraft Launcher updates now arrive on the official website** — downloads, new versions & news are published there: **[foxycraft.us.ci](https://foxycraft.us.ci)**
+
 <p align="center">
-  <a href="https://github.com/foxylayzz777/FoxyCraft-Launcher/releases/latest">
+  <a href="https://foxycraft.us.ci">
     <img src="https://img.shields.io/badge/Download-Latest%20APK-22d3ee?style=for-the-badge&logo=android&logoColor=white" alt="Download latest APK" />
   </a>
-  <a href="https://github.com/foxylayzz777/FoxyCraft-Launcher">
-    <img src="https://img.shields.io/github/stars/foxylayzz777/FoxyCraft-Launcher?style=for-the-badge&logo=github&color=818cf8" alt="Stars" />
+  <a href="https://foxycraft.us.ci">
+    <img src="https://img.shields.io/badge/Official%20Website-foxycraft.us.ci-818cf8?style=for-the-badge" alt="Official website" />
   </a>
 </p>
 
@@ -32,6 +34,7 @@
 ## 🙋 About Me
 
 - 🔭 Building **FoxyCraft Launcher** — Minecraft Java Edition 26.3, native on Android
+- 🌐 Launcher updates & downloads → **[foxycraft.us.ci](https://foxycraft.us.ci)**
 - 🎥 YouTube creator — devlogs, gameplay & updates on **[@foxyplayzz](https://youtube.com/@foxyplayzz)**
 - 🦀 Rust • Android • wgpu — performance first, no bloat
 - 🎮 Minecraft Java player & modder
@@ -57,5 +60,6 @@
 
 <p>
   <a href="https://youtube.com/@foxyplayzz"><img src="https://img.shields.io/badge/YouTube-@foxyplayzz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://foxycraft.us.ci"><img src="https://img.shields.io/badge/Website-FoxyCraft-22d3ee?style=for-the-badge" alt="FoxyCraft Website" /></a>
   <a href="https://github.com/foxylayzz777"><img src="https://img.shields.io/badge/GitHub-foxylayzz777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
