@@ -18,7 +18,15 @@
 
 **Minecraft Java 26.3 on your phone — no emulator, no JVM on the device.** A native Rust/wgpu client with a Midnight Ocean UI, one-tap verified installs, built-in mods / packs / shaders catalogs and Bedrock-style touch controls with a full layout editor — new in 1.1.0, **The Touch Update**.
 
-> 📢 **All FoxyCraft Launcher updates now arrive on the official website** — downloads, new versions & news are published there: **[foxycraft.us.ci](https://foxycraft.us.ci)**
+<h2 align="center">📢 All FoxyCraft Launcher updates now arrive on the official website</h2>
+
+<p align="center">
+  <a href="https://foxycraft.us.ci">
+    <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-foxycraft.us.ci-22d3ee?style=for-the-badge" height="46" alt="FoxyCraft official website — downloads, new versions and news" />
+  </a>
+</p>
+
+<h3 align="center">👉 <a href="https://foxycraft.us.ci">foxycraft.us.ci</a> 👈</h3>
 
 <p align="center">
   <a href="https://foxycraft.us.ci">
